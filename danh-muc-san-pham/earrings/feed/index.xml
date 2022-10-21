@@ -12,14 +12,32 @@
 	<atom:link href="https://cuongdo1411.github.io/mywordpress/danh-muc-san-pham/earrings/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cuongdo1411.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 18 Oct 2022 09:29:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 16:17:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Bar Earrings</title>
+		<link>https://cuongdo1411.github.io/mywordpress/san-pham/bar-earrings-2/</link>
+					<comments>https://cuongdo1411.github.io/mywordpress/san-pham/bar-earrings-2/#respond</comments>
+		
+		<dc:creator><![CDATA[docaocuong]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 16:16:29 +0000</pubDate>
+				<guid isPermaLink="false">https://cuongdo1411.github.io/mywordpress/?post_type=product&#038;p=969</guid>
+
+					<description><![CDATA[These bold bars are a modern take on the drop earring. As multifaceted as it is iconic, the Tiffany T collection is a tangible reminder of the connections we feel but can’t always see.]]></description>
+										<content:encoded><![CDATA[<p>Feugiat mattis vel turpis venenatis, faucibus amet arcu. Nunc, scelerisque sit nunc, tincidunt gravida id enim. Dictum sagittis, nunc, sit purus facilisi vitae. Aenean ullamcorper vestibulum porttitor dui sed urna, pellentesque in. Vel proin venenatis mi, vitae tempus, metus imperdiet diam quis. Tortor ullamcorper egestas sem amet senectus. Sollicitudin praesent vitae sem dignissim neque scelerisque id leo fringilla. Aliquet dignissim id.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cuongdo1411.github.io/mywordpress/san-pham/bar-earrings-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Olive Earrings</title>
 		<link>https://cuongdo1411.github.io/mywordpress/san-pham/olive-earrings/</link>
 					<comments>https://cuongdo1411.github.io/mywordpress/san-pham/olive-earrings/#respond</comments>
@@ -78,7 +96,7 @@ A striking display of diamonds scales the ear in this elegant climber earring de
 		
 			</item>
 		<item>
-		<title>Bar Earrings</title>
+		<title>Club Earrings</title>
 		<link>https://cuongdo1411.github.io/mywordpress/san-pham/bar-earrings/</link>
 					<comments>https://cuongdo1411.github.io/mywordpress/san-pham/bar-earrings/#respond</comments>
 		
