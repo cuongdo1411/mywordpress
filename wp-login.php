@@ -101,7 +101,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"4f7e43bdff"};
+var userProfileL10n = {"user_id":"0","nonce":"04fae15c23"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
