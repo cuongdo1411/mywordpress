@@ -4,12 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; TRAVELL &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://cuongdo1411.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.3" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://cuongdo1411.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.0.3" media="all">
-<link rel="stylesheet" id="forms-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.0.3" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.0.3" media="all">
-<link rel="stylesheet" id="login-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://cuongdo1411.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.1" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://cuongdo1411.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.1" media="all">
+<link rel="stylesheet" id="forms-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.1" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.1" media="all">
+<link rel="stylesheet" id="login-css" href="https://cuongdo1411.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -44,8 +43,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://cuongdo1411.github.io/mywordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
-			</p>
+				<a href="https://cuongdo1411.github.io/mywordpress/lost-password/?elementor_library=__trashed">Bạn quên mật khẩu?</a>			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
@@ -71,7 +69,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 
 					</form>
 				</div>
-				<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+				<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
 var _zxcvbnSettings = {"src":"http:\/\/localhost\/myproject\/wordpress\/wp-includes\/js\/zxcvbn.min.js"};
@@ -79,8 +77,8 @@ var _zxcvbnSettings = {"src":"http:\/\/localhost\/myproject\/wordpress\/wp-inclu
 <script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94" id="wp-i18n-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
@@ -94,14 +92,14 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.1" id="password-strength-meter-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"04fae15c23"};
+var userProfileL10n = {"user_id":"0","nonce":"c83f497e19"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -110,7 +108,7 @@ var userProfileL10n = {"user_id":"0","nonce":"04fae15c23"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src="https://cuongdo1411.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
+<script src="https://cuongdo1411.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
