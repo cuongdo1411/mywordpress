@@ -11,29 +11,11 @@
 	<atom:link href="https://cuongdo1411.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cuongdo1411.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 16 Aug 2022 07:33:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Nov 2022 15:29:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
-	<item>
-		<title>
-		Phản hồi cho Top 5 địa điểm du lịch tại Việt Nam hot nhất năm 2022. bởi Một người bình luận WordPress		</title>
-		<link>https://cuongdo1411.github.io/mywordpress/chao-moi-nguoi-2/#comment-2</link>
-
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Tue, 16 Aug 2022 07:33:29 +0000</pubDate>
-		<guid isPermaLink="false">https://cuongdo1411.github.io/mywordpress/?p=1#comment-2</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot; rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
